@@ -1,0 +1,70 @@
+.container{
+     border-radius:10px ;
+     justify-content: center;
+     width: 375px;
+     overflow: hidden;
+     border: solid 1px;
+     
+     height: 100%;
+
+  
+}
+.face{
+    border-radius: 50%;
+    width: 50px;
+    margin-right: 20px;
+ 
+}
+.sense
+{
+    display:flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.share{
+    margin-left: 20px;
+    background-color: lightgray;
+    width:50px ;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-left: auto;   
+}
+.content
+{
+    margin-left: 20px;
+}
+.icons
+{
+   display: none;
+    
+    
+}  
+.img1{
+    margin-right: 50px;
+    margin-left: 20px;
+}
+.img2{
+    margin-right: 50px;
+}
+
+ .add:hover .icons 
+    {
+        background-color: grey;
+        display:flex;
+        height: 50px;
+        margin-top: 10px;
+        
+    
+ } 
+ .add:hover div
+ {
+     display: none;
+ }
+ 
+ 
+    
